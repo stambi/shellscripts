@@ -50,7 +50,7 @@ rm -r /private/var/Lockscreen
 
 # Reboot to give Casper Suite the chance to apply Managed Preferences before the system is used after imaging.
 # reboot
-shutdown -r +1 &
+shutdown -r +1
 
 # Make script self-destruct
 rm -rf $0
