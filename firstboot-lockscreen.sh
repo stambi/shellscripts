@@ -2,7 +2,7 @@
 
 # Initial setup script for macOS 10.12.x
 #
-#Immedeately lock the screen after the loginwindow was loaded. We do not want a user to login until firstboot script has finished and rebooted the device.
+# Immedeately lock the screen after the loginwindow was loaded. We do not want a user to login until firstboot script has finished and rebooted the device.
 
 ###############LOCK THE SCREEN##################
 # Loop until the Loginwindow is up and running
