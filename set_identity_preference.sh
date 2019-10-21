@@ -1,6 +1,5 @@
-# Set identity preference in Keychain for the logged in User
-# STA / 23.05.2018
- 
+#!/bin/bash
+# Set identity preference in Keychain for the logged in User 
  
 # Log -x
 time=$( date "+%d%m%y-%H%M" )
